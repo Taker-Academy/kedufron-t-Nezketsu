@@ -16,6 +16,7 @@ Le modèle d'Item représente une entité d'élément avec des propriétés tell
    - Type: Entier (auto-incrément)
    - Description: Identifiant unique auto-incrémenté de l'élément.
 
+
 2. **name**
    - Type: Chaîne de caractères
    - Description: Le nom de l'élément.
